@@ -8,17 +8,9 @@ Este documento demonstra como encontrar a função composta `gog(x)`, onde `f(x)
 
 O código LaTeX mostra a função de `gog(x)`, que envolve a aplicação de `g` duas vezes: primeiro em `x` e depois na expressão resultante. As etapas detalham o processo para maior clareza:
 
-## Trecho de código
+## Trecho do código
 
-`\text{Dadas as funções $f\left( x\right) = 2x - 3$ e $g\left(x \right) = x ^{2} - 1$, determine: $gog\left( x\right)$ } \\`
-
-`\ext{$f\left( x\right) = 2x - 3$ e $g\left( x\right) = x^{2} - 1$} \\`
-
-`gog\left(x \right) = g\left( g \left( x\right)\right) = g\left(x^{2} - 1 \right) = \left( x^{2} - 1\right)^{2} -1 = x^{4} - 2x^{2} + 1 - 1 = x^{4} - 2x^{2} \\`
-
-`\text{Passo a passo:} \Rightarrow \left( x^{2} - 1\right)^{2} -1 = \left[\left( x^{2} - 1\right) \cdot \left(x^{2} - 1\right) \right] \\`
-
-`[\left[\left( x^{2} \cdot x^{2} -1 \cdot x^{2} -1 \cdot x^{2} + 1\right) \right] \\`
+`\left[\left( x^{2} \cdot x^{2} -1 \cdot x^{2} -1 \cdot x^{2} + 1\right) \right] \\`
 
 `\left(x^{2 + 2} -x^{2} -x^{2} + 1\right)\\`
 
@@ -41,3 +33,4 @@ Resultado Final: A função composta `gog(x)` é igual a `x^4 - 2x^2`.
 
 ## Imagem
 
+![img](https://github.com/DeiseFreire/Q214629052024/blob/main/img.png)
