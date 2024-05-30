@@ -4,8 +4,7 @@
 
 Este documento demonstra como encontrar a função composta `gog(x)`, onde `f(x) = 2x - 3 e g(x) = x^2 - 1`. O conceito de composição de função é explicado e as etapas de cálculo são apresentadas em detalhes usando a notação LaTeX.
 
-## Código LaTeX
-
+## Código LaTeX 
 O código LaTeX mostra a função de `gog(x)`, que envolve a aplicação de `g` duas vezes: primeiro em `x` e depois na expressão resultante. As etapas detalham o processo para maior clareza:
 
 ## Trecho do código
