@@ -9,15 +9,19 @@ O código LaTeX mostra a função de `gog(x)`, que envolve a aplicação de `g` 
 
 ## Trecho do código
 
-`\left[\left( x^{2} \cdot x^{2} -1 \cdot x^{2} -1 \cdot x^{2} + 1\right) \right] \\`
+```
 
-`\left(x^{2 + 2} -x^{2} -x^{2} + 1\right)\\`
+\left[\left( x^{2} \cdot x^{2} -1 \cdot x^{2} -1 \cdot x^{2} + 1\right) \right] \\
 
-`x^{4} - 2x^{2} + 1 - 1\\`
+\left(x^{2 + 2} -x^{2} -x^{2} + 1\right)\\
 
-`x^{4} - 2x^{2} + \cancel{1} - \cancel{1}\\`
+x^{4} - 2x^{2} + 1 - 1\\
 
-`x^{4} - 2x^{2}`
+x^{4} - 2x^{2} + \cancel{1} - \cancel{1}\\
+
+x^{4} - 2x^{2}
+
+```
 
 ## Explicação
 
